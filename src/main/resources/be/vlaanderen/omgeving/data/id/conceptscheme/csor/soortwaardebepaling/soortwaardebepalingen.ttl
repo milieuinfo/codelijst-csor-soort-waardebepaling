@@ -1,0 +1,677 @@
+PREFIX csor:             <https://data.omgeving.vlaanderen.be/ns/csor#>
+PREFIX csor-constraints: <https://data.omgeving.vlaanderen.be/ns/csor-constraints#>
+PREFIX dcterms:          <http://purl.org/dc/terms/>
+PREFIX iadopt:           <https://w3id.org/iadopt/ont/>
+PREFIX owl:              <http://www.w3.org/2002/07/owl#>
+PREFIX qudt:             <http://qudt.org/schema/qudt/>
+PREFIX rdf:              <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:             <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sh:               <http://www.w3.org/ns/shacl#>
+PREFIX skos:             <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd:              <http://www.w3.org/2001/XMLSchema#>
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_58>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "72U";
+        skos:prefLabel     "72h"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "72U" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_66>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "MUCTOT";
+        skos:prefLabel     "MUC project totaal"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "MUCTOT" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_74>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "TOTFILT";
+        skos:prefLabel     "totaal gefiltreerd"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "TOTFILT" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_82>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "GAS";
+        skos:prefLabel     "enkel gasvormig"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "GAS" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_29>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "24EC";
+        skos:prefLabel     "EC50 (24h)"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "24EC" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_37>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "30LC";
+        skos:prefLabel     "LC50 (30m)"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "30LC" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_45>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "NVOO";
+        skos:prefLabel     "organisch niet vluchtig opgelost"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "NVOO" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_53>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "ANORGOPG";
+        skos:prefLabel     "anorganisch opgelost"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "ANORGOPG" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_61>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "72UZW";
+        skos:prefLabel     "72h na Zahn Wellens"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "72UZW" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_16>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "VRIJ";
+        skos:prefLabel     "vrij"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "VRIJ" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_32>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "72EC";
+        skos:prefLabel     "EC50 (72h)"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "72EC" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_40>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "STDEV";
+        skos:prefLabel     "standaard deviatie"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "STDEV" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_68>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "MUCOPG";
+        skos:prefLabel     "MUC project opgelost"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "MUCOPG" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_76>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "GC-MS";
+        skos:prefLabel     "GC-MS"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "GC-MS" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_1>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:definition    "Standaard toelichting"@nl;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "STD";
+        skos:prefLabel     "standaard"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "STD" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:definition    "TEST_toelichting"@nl;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "TEST_toelichting";
+        skos:prefLabel     "TEST_toelichting"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "TEST_toelichting" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_11>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "TOTZW";
+        skos:prefLabel     "totaal na Zahn Wellens"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "TOTZW" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_39>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "WARM";
+        skos:prefLabel     "warm"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "WARM" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_47>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "MUCdNPO";
+        skos:prefLabel     "organisch niet purgeerbaar MUCd-project"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "MUCdNPO" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_55>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "48U";
+        skos:prefLabel     "48h"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "48U" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_63>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "0.5ULUMINHZW";
+        skos:prefLabel     "0,5h bac lum-inh na Zahn Wellens"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "0.5ULUMINHZW" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_71>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "OPGZW";
+        skos:prefLabel     "opgelost na Zahn Wellens"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "OPGZW" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_8>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "MUOPG";
+        skos:prefLabel     "multi opgelost"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "MUOPG" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_18>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "ORFILT";
+        skos:prefLabel     "organisch gefiltreerd"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "ORFILT" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_26>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "TIO";
+        skos:prefLabel     "totaal incl. oxiden"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "TIO" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_34>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "24LC";
+        skos:prefLabel     "LC50 (24h)"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "24LC" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_42>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "NPO";
+        skos:prefLabel     "organisch niet purgeerbaar"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "NPO" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_50>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "PUR";
+        skos:prefLabel     "purgeerbaar"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "PUR" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_78>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "ELEM";
+        skos:prefLabel     "elementair"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "ELEM" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_3>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "TOT";
+        skos:prefLabel     "totaal"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "TOT" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_13>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "COX";
+        skos:prefLabel     "chloor oxydeerbaar"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "COX" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_49>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "EXT";
+        skos:prefLabel     "extraheerbaar"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "EXT" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_57>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "24U";
+        skos:prefLabel     "24h"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "24U" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_65>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "MUCD";
+        skos:prefLabel     "MUCd project"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "MUCD" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_73>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "ANFILT";
+        skos:prefLabel     "anorganisch gefiltreerd"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "ANFILT" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_28>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "KI";
+        skos:prefLabel     "kiem-inhibitie"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "KI" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_36>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "96LC";
+        skos:prefLabel     "LC50 (96h)"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "96LC" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_44>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "NVTO";
+        skos:prefLabel     "organisch niet vluchtig totaal"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "NVTO" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_52>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "ANORG";
+        skos:prefLabel     "anorganisch"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "ANORG" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_60>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "0.5ULUMINH";
+        skos:prefLabel     "0,5h bac luminiscentie-inhibitie"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "0.5ULUMINH" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_5>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "FILT";
+        skos:prefLabel     "gefilterd"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "FILT" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_15>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "OBB";
+        skos:prefLabel     "ontbindbare"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "OBB" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_31>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "30EC";
+        skos:prefLabel     "EC50 (30m)"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "30EC" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_59>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "96U";
+        skos:prefLabel     "96h"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "96U" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_67>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "MUCDTOT";
+        skos:prefLabel     "MUCd project totaal"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "MUCDTOT" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_75>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "LC-MS";
+        skos:prefLabel     "LC-MS"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "LC-MS" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_83>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "NI";
+        skos:prefLabel     "Nieuwe indexberekening"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "NI" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_38>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "72LC";
+        skos:prefLabel     "LC50 (72h)"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "72LC" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_46>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "MUCNPO";
+        skos:prefLabel     "organisch niet purgeerbaar MUC-project"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "MUCNPO" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_54>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "OPG120U";
+        skos:prefLabel     "opgelost na 120h"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "OPG120U" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_62>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "96UZW";
+        skos:prefLabel     "96h na Zahn Wellens"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "96UZW" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_70>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "VERZ";
+        skos:prefLabel     "verzadiging"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "VERZ" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_7>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "MUTOT";
+        skos:prefLabel     "multi totaal"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "MUTOT" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_17>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "ANTOT";
+        skos:prefLabel     "anorganisch totaal"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "ANTOT" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_25>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "ORG";
+        skos:prefLabel     "organisch"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "ORG" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_33>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "96EC";
+        skos:prefLabel     "EC50 (96h)"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "96EC" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_41>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "PESTSAMP";
+        skos:prefLabel     "pesticiden sampler"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "PESTSAMP" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_69>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "MUCDOPG";
+        skos:prefLabel     "MUCd project opgelost"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "MUCDOPG" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_77>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "METALEN";
+        skos:prefLabel     "metalen"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "METALEN" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_2>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "OPG";
+        skos:prefLabel     "opgelost"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "OPG" .
+
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>
+        rdf:type            skos:ConceptScheme;
+        owl:deprecated      false;
+        skos:definition     "De manier (of de groep van compatibele manieren) waarop een waarde wordt toegekend voor de observatie van het geobserveerde kenmerk. Verschillende soorten waardebepaling leveren fundamenteel andere resultaten op en zijn dus onderling onvergelijkbaar."@nl;
+        skos:hasTopConcept  <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_75> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_60> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_15> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_77> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_82> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_37> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_58> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_11> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_2> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_68> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_31> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_52> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_33> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_54> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_28> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_74> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_14> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_76> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_36> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_46> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_67> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_30> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_1> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_51> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_32> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_27> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_73> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_29> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_49> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_64> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_45> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_66> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_8> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_50> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_71> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_26> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_72> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_48> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_69> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_22> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_42> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_63> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_7> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_44> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_65> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_57> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_70> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_25> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_17> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_19> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_47> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_39> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_13> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_41> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_62> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_43> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_35> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_56> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_78> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_16> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_18> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_38> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_59> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_12> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_3> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_40> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_61> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_53> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_5> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_34> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_55> , <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_83>;
+        skos:prefLabel      "Soort waardebepalingen"@nl .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_12>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "ZW";
+        skos:prefLabel     "na Zahn Wellens"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "ZW" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_48>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "ADS";
+        skos:prefLabel     "adsorbeerbaar"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "ADS" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_56>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "48UZW";
+        skos:prefLabel     "48h na Zahn Wellens"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "48UZW" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_64>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "MUC";
+        skos:prefLabel     "MUC project"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "MUC" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_72>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "H2OVLUCHT";
+        skos:prefLabel     "waterdamp vluchtig"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "H2OVLUCHT" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_19>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "ORTOT";
+        skos:prefLabel     "organisch totaal"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "ORTOT" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_27>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "GI";
+        skos:prefLabel     "groei-inhibitie"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "GI" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_35>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "48LC";
+        skos:prefLabel     "LC50 (48h)"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "48LC" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_43>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "ORGOPG";
+        skos:prefLabel     "organisch opgelost"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "ORGOPG" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_51>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "VLU";
+        skos:prefLabel     "vluchtig"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "VLU" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_14>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "NCOX";
+        skos:prefLabel     "niet-chloor oxydeerbaar"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "NCOX" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_22>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "VZZ";
+        skos:prefLabel     "vrijstelbaar in zwak zuur"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "VZZ" .
+
+<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_30>
+        rdf:type           csor:SoortWaardebepaling , skos:Concept;
+        owl:deprecated     false;
+        skos:inScheme      <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        skos:notation      "48EC";
+        skos:prefLabel     "EC50 (48h)"@nl;
+        skos:topConceptOf  <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling>;
+        csor:symbool       "48EC" .
