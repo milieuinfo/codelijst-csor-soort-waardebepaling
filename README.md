@@ -11,6 +11,9 @@ De codelijst is gepubliceerd als een SKOS-conceptschema onder de namespace van h
 **Concept scheme URI:**
 `https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling`
 
+**Named graph (Virtuoso):**
+`https://data.omgeving.vlaanderen.be/id/graph/codelijst-csor-soort-waardebepaling`
+
 ## Beschikbare formaten
 
 De codelijst wordt aangeboden in de volgende RDF-formaten:
