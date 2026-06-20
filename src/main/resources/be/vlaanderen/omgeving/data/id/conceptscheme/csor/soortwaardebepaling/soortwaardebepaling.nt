@@ -115,19 +115,9 @@
 <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_1> <http://www.w3.org/2004/02/skos/core#prefLabel> "standaard"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_1> <http://www.w3.org/2004/02/skos/core#notation> "STD" .
 <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_1> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling> .
-<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_1> <http://www.w3.org/2004/02/skos/core#definition> "Standaard toelichting"@nl .
 <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_1> <http://www.w3.org/2002/07/owl#deprecated> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
 <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling> .
 <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84> <https://data.omgeving.vlaanderen.be/ns/csor#symbool> "TEST_toelichting" .
-<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling> .
-<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84> <http://www.w3.org/2004/02/skos/core#prefLabel> "TEST_toelichting"@nl .
-<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84> <http://www.w3.org/2004/02/skos/core#notation> "TEST_toelichting" .
-<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling> .
-<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84> <http://www.w3.org/2004/02/skos/core#definition> "TEST_toelichting"@nl .
-<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84> <http://www.w3.org/2002/07/owl#deprecated> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
-<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling> .
-<https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_11> <https://data.omgeving.vlaanderen.be/ns/csor#symbool> "TOTZW" .
 <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_11> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling> .
 <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_11> <http://www.w3.org/2004/02/skos/core#prefLabel> "totaal na Zahn Wellens"@nl .
@@ -542,7 +532,6 @@
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_43> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_35> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_56> .
-<https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_78> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_16> .
 <https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_18> .

@@ -148,12 +148,6 @@
       "lang" : "nl"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#definition" : [ { 
-      "type" : "literal" ,
-      "value" : "Standaard toelichting" ,
-      "lang" : "nl"
-    }
-     ] ,
     "http://www.w3.org/2002/07/owl#deprecated" : [ { 
       "type" : "literal" ,
       "value" : "false" ,
@@ -1048,10 +1042,6 @@
     }
     , { 
       "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84"
-    }
-    , { 
-      "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_40"
     }
     , { 
@@ -1626,56 +1616,6 @@
     "https://data.omgeving.vlaanderen.be/ns/csor#symbool" : [ { 
       "type" : "literal" ,
       "value" : "STDEV"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
-    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
-    }
-    , { 
-      "type" : "uri" ,
-      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
-    }
-     ]
-  }
-   ,
-  "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84" : { 
-    "http://www.w3.org/2004/02/skos/core#notation" : [ { 
-      "type" : "literal" ,
-      "value" : "TEST_toelichting"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
-      "type" : "literal" ,
-      "value" : "TEST_toelichting" ,
-      "lang" : "nl"
-    }
-     ] ,
-    "http://www.w3.org/2004/02/skos/core#definition" : [ { 
-      "type" : "literal" ,
-      "value" : "TEST_toelichting" ,
-      "lang" : "nl"
-    }
-     ] ,
-    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
-      "type" : "literal" ,
-      "value" : "false" ,
-      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
-    }
-     ] ,
-    "https://data.omgeving.vlaanderen.be/ns/csor#symbool" : [ { 
-      "type" : "literal" ,
-      "value" : "TEST_toelichting"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
