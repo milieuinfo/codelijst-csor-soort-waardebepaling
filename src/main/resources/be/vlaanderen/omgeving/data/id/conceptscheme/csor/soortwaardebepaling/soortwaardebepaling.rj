@@ -2,7 +2,7 @@
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_5" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "FILT"
+      "value" : "SWB_5"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -27,11 +27,6 @@
       "value" : "FILT"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -40,13 +35,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_7" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "MUTOT"
+      "value" : "SWB_7"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -71,11 +71,6 @@
       "value" : "MUTOT"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -84,13 +79,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_8" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "MUOPG"
+      "value" : "SWB_8"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -115,11 +115,6 @@
       "value" : "MUOPG"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -128,13 +123,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_1" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "STD"
+      "value" : "SWB_1"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -159,11 +159,6 @@
       "value" : "STD"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -172,13 +167,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_2" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "OPG"
+      "value" : "SWB_2"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -203,11 +203,6 @@
       "value" : "OPG"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -216,13 +211,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_3" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "TOT"
+      "value" : "SWB_3"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -247,11 +247,6 @@
       "value" : "TOT"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -260,13 +255,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_82" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "GAS"
+      "value" : "SWB_82"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -291,11 +291,6 @@
       "value" : "GAS"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -304,13 +299,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_32" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "72EC"
+      "value" : "SWB_32"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -335,11 +335,6 @@
       "value" : "72EC"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -348,13 +343,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_76" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "GC-MS"
+      "value" : "SWB_76"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -379,11 +379,6 @@
       "value" : "GC-MS"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -392,13 +387,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_33" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "96EC"
+      "value" : "SWB_33"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -423,11 +423,6 @@
       "value" : "96EC"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -436,13 +431,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_77" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "METALEN"
+      "value" : "SWB_77"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -467,11 +467,6 @@
       "value" : "METALEN"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -480,13 +475,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_34" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "24LC"
+      "value" : "SWB_34"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -511,11 +511,6 @@
       "value" : "24LC"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -524,13 +519,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_78" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "ELEM"
+      "value" : "SWB_78"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -555,11 +555,6 @@
       "value" : "ELEM"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -568,13 +563,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_35" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "48LC"
+      "value" : "SWB_35"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -599,11 +599,6 @@
       "value" : "48LC"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -612,13 +607,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_72" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "H2OVLUCHT"
+      "value" : "SWB_72"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -643,11 +643,6 @@
       "value" : "H2OVLUCHT"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -656,13 +651,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_73" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "ANFILT"
+      "value" : "SWB_73"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -687,11 +687,6 @@
       "value" : "ANFILT"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -700,13 +695,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_74" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "TOTFILT"
+      "value" : "SWB_74"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -731,11 +731,6 @@
       "value" : "TOTFILT"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -744,13 +739,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_30" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "48EC"
+      "value" : "SWB_30"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -775,11 +775,6 @@
       "value" : "48EC"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -788,13 +783,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_31" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "30EC"
+      "value" : "SWB_31"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -819,11 +819,6 @@
       "value" : "30EC"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -832,13 +827,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_75" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "LC-MS"
+      "value" : "SWB_75"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -863,11 +863,6 @@
       "value" : "LC-MS"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -876,13 +871,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_36" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "96LC"
+      "value" : "SWB_36"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -907,11 +907,6 @@
       "value" : "96LC"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -919,6 +914,11 @@
     , { 
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
     }
      ]
   }
@@ -1022,11 +1022,31 @@
     }
     , { 
       "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_90"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_91"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_87"
+    }
+    , { 
+      "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_43"
     }
     , { 
       "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_88"
+    }
+    , { 
+      "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_44"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_89"
     }
     , { 
       "type" : "uri" ,
@@ -1042,11 +1062,23 @@
     }
     , { 
       "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84"
+    }
+    , { 
+      "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_40"
     }
     , { 
       "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_85"
+    }
+    , { 
+      "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_41"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_86"
     }
     , { 
       "type" : "uri" ,
@@ -1241,7 +1273,7 @@
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_37" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "30LC"
+      "value" : "SWB_37"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1266,11 +1298,6 @@
       "value" : "30LC"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -1279,13 +1306,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_38" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "72LC"
+      "value" : "SWB_38"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1310,11 +1342,6 @@
       "value" : "72LC"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -1323,13 +1350,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_39" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "WARM"
+      "value" : "SWB_39"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1354,9 +1386,48 @@
       "value" : "WARM"
     }
      ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
     "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_90" : { 
+    "http://www.w3.org/2004/02/skos/core#notation" : [ { 
+      "type" : "literal" ,
+      "value" : "SWB_90"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "Eluaat LS2" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "https://data.omgeving.vlaanderen.be/ns/csor#symbool" : [ { 
+      "type" : "literal" ,
+      "value" : "ELUAAT-LS2"
     }
      ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
@@ -1367,13 +1438,62 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_91" : { 
+    "http://www.w3.org/2004/02/skos/core#notation" : [ { 
+      "type" : "literal" ,
+      "value" : "SWB_91"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "Eluaat LS5" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "https://data.omgeving.vlaanderen.be/ns/csor#symbool" : [ { 
+      "type" : "literal" ,
+      "value" : "ELUAAT-LS5"
+    }
+     ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_43" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "ORGOPG"
+      "value" : "SWB_43"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1398,9 +1518,48 @@
       "value" : "ORGOPG"
     }
      ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
     "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_87" : { 
+    "http://www.w3.org/2004/02/skos/core#notation" : [ { 
+      "type" : "literal" ,
+      "value" : "SWB_87"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "Eluaat LS0.5" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "https://data.omgeving.vlaanderen.be/ns/csor#symbool" : [ { 
+      "type" : "literal" ,
+      "value" : "ELUAAT-LS0.5"
     }
      ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
@@ -1411,13 +1570,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_44" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "NVTO"
+      "value" : "SWB_44"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1442,9 +1606,48 @@
       "value" : "NVTO"
     }
      ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
     "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_88" : { 
+    "http://www.w3.org/2004/02/skos/core#notation" : [ { 
+      "type" : "literal" ,
+      "value" : "SWB_88"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "Eluaat LS1" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "https://data.omgeving.vlaanderen.be/ns/csor#symbool" : [ { 
+      "type" : "literal" ,
+      "value" : "ELUAAT-LS1"
     }
      ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
@@ -1455,13 +1658,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_45" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "NVOO"
+      "value" : "SWB_45"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1486,9 +1694,48 @@
       "value" : "NVOO"
     }
      ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
     "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_89" : { 
+    "http://www.w3.org/2004/02/skos/core#notation" : [ { 
+      "type" : "literal" ,
+      "value" : "SWB_89"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "Eluaat LS10" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "https://data.omgeving.vlaanderen.be/ns/csor#symbool" : [ { 
+      "type" : "literal" ,
+      "value" : "ELUAAT-LS10"
     }
      ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
@@ -1499,13 +1746,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_46" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "MUCNPO"
+      "value" : "SWB_46"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1530,11 +1782,6 @@
       "value" : "MUCNPO"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -1543,13 +1790,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_83" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "NI"
+      "value" : "SWB_83"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1574,11 +1826,6 @@
       "value" : "NI"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -1587,13 +1834,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_40" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "STDEV"
+      "value" : "SWB_40"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1618,9 +1870,48 @@
       "value" : "STDEV"
     }
      ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
     "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_84" : { 
+    "http://www.w3.org/2004/02/skos/core#notation" : [ { 
+      "type" : "literal" ,
+      "value" : "SWB_84"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "Eluaat" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "https://data.omgeving.vlaanderen.be/ns/csor#symbool" : [ { 
+      "type" : "literal" ,
+      "value" : "ELUAAT"
     }
      ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
@@ -1631,13 +1922,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_41" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "PESTSAMP"
+      "value" : "SWB_41"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1662,9 +1958,48 @@
       "value" : "PESTSAMP"
     }
      ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
     "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_85" : { 
+    "http://www.w3.org/2004/02/skos/core#notation" : [ { 
+      "type" : "literal" ,
+      "value" : "SWB_85"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "Eluaat LS0.1" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "https://data.omgeving.vlaanderen.be/ns/csor#symbool" : [ { 
+      "type" : "literal" ,
+      "value" : "ELUAAT-LS0.1"
     }
      ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
@@ -1675,13 +2010,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_42" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "NPO"
+      "value" : "SWB_42"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1706,9 +2046,48 @@
       "value" : "NPO"
     }
      ] ,
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
+    }
+    , { 
+      "type" : "uri" ,
+      "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
     "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ]
+  }
+   ,
+  "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_86" : { 
+    "http://www.w3.org/2004/02/skos/core#notation" : [ { 
+      "type" : "literal" ,
+      "value" : "SWB_86"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#prefLabel" : [ { 
+      "type" : "literal" ,
+      "value" : "Eluaat LS0.2" ,
+      "lang" : "nl"
+    }
+     ] ,
+    "http://www.w3.org/2002/07/owl#deprecated" : [ { 
+      "type" : "literal" ,
+      "value" : "false" ,
+      "datatype" : "http://www.w3.org/2001/XMLSchema#boolean"
+    }
+     ] ,
+    "https://data.omgeving.vlaanderen.be/ns/csor#symbool" : [ { 
+      "type" : "literal" ,
+      "value" : "ELUAAT-LS0.2"
     }
      ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
@@ -1719,13 +2098,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_47" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "MUCdNPO"
+      "value" : "SWB_47"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1750,11 +2134,6 @@
       "value" : "MUCdNPO"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -1763,13 +2142,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_48" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "ADS"
+      "value" : "SWB_48"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1794,11 +2178,6 @@
       "value" : "ADS"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -1807,13 +2186,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_49" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "EXT"
+      "value" : "SWB_49"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1838,11 +2222,6 @@
       "value" : "EXT"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -1851,13 +2230,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_60" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "0.5ULUMINH"
+      "value" : "SWB_60"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1882,11 +2266,6 @@
       "value" : "0.5ULUMINH"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -1895,13 +2274,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_54" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "OPG120U"
+      "value" : "SWB_54"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1926,11 +2310,6 @@
       "value" : "OPG120U"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -1939,13 +2318,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_11" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "TOTZW"
+      "value" : "SWB_11"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -1970,11 +2354,6 @@
       "value" : "TOTZW"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -1983,13 +2362,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_55" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "48U"
+      "value" : "SWB_55"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2014,11 +2398,6 @@
       "value" : "48U"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2027,13 +2406,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_12" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "ZW"
+      "value" : "SWB_12"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2058,11 +2442,6 @@
       "value" : "ZW"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2071,13 +2450,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_56" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "48UZW"
+      "value" : "SWB_56"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2102,11 +2486,6 @@
       "value" : "48UZW"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2115,13 +2494,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_13" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "COX"
+      "value" : "SWB_13"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2146,11 +2530,6 @@
       "value" : "COX"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2159,13 +2538,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_57" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "24U"
+      "value" : "SWB_57"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2190,11 +2574,6 @@
       "value" : "24U"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2203,13 +2582,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_50" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "PUR"
+      "value" : "SWB_50"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2234,11 +2618,6 @@
       "value" : "PUR"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2247,13 +2626,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_51" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "VLU"
+      "value" : "SWB_51"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2278,11 +2662,6 @@
       "value" : "VLU"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2291,13 +2670,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_52" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "ANORG"
+      "value" : "SWB_52"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2322,11 +2706,6 @@
       "value" : "ANORG"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2335,13 +2714,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_53" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "ANORGOPG"
+      "value" : "SWB_53"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2366,11 +2750,6 @@
       "value" : "ANORGOPG"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2379,13 +2758,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_18" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "ORFILT"
+      "value" : "SWB_18"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2410,11 +2794,6 @@
       "value" : "ORFILT"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2423,13 +2802,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_19" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "ORTOT"
+      "value" : "SWB_19"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2454,11 +2838,6 @@
       "value" : "ORTOT"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2467,13 +2846,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_58" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "72U"
+      "value" : "SWB_58"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2498,11 +2882,6 @@
       "value" : "72U"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2511,13 +2890,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_14" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "NCOX"
+      "value" : "SWB_14"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2542,11 +2926,6 @@
       "value" : "NCOX"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2555,13 +2934,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_15" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "OBB"
+      "value" : "SWB_15"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2586,11 +2970,6 @@
       "value" : "OBB"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2599,13 +2978,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_59" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "96U"
+      "value" : "SWB_59"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2630,11 +3014,6 @@
       "value" : "96U"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2643,13 +3022,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_16" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "VRIJ"
+      "value" : "SWB_16"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2674,11 +3058,6 @@
       "value" : "VRIJ"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2687,13 +3066,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_17" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "ANTOT"
+      "value" : "SWB_17"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2718,11 +3102,6 @@
       "value" : "ANTOT"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2731,13 +3110,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_70" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "VERZ"
+      "value" : "SWB_70"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2762,11 +3146,6 @@
       "value" : "VERZ"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2775,13 +3154,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_71" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "OPGZW"
+      "value" : "SWB_71"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2806,11 +3190,6 @@
       "value" : "OPGZW"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2819,13 +3198,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_65" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "MUCD"
+      "value" : "SWB_65"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2850,11 +3234,6 @@
       "value" : "MUCD"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2863,13 +3242,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_66" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "MUCTOT"
+      "value" : "SWB_66"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2894,11 +3278,6 @@
       "value" : "MUCTOT"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2907,13 +3286,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_22" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "VZZ"
+      "value" : "SWB_22"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2938,11 +3322,6 @@
       "value" : "VZZ"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2951,13 +3330,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_67" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "MUCDTOT"
+      "value" : "SWB_67"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -2982,11 +3366,6 @@
       "value" : "MUCDTOT"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -2995,13 +3374,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_68" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "MUCOPG"
+      "value" : "SWB_68"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -3026,11 +3410,6 @@
       "value" : "MUCOPG"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -3039,13 +3418,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_61" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "72UZW"
+      "value" : "SWB_61"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -3070,11 +3454,6 @@
       "value" : "72UZW"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -3083,13 +3462,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_62" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "96UZW"
+      "value" : "SWB_62"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -3114,11 +3498,6 @@
       "value" : "96UZW"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -3127,13 +3506,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_63" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "0.5ULUMINHZW"
+      "value" : "SWB_63"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -3158,11 +3542,6 @@
       "value" : "0.5ULUMINHZW"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -3171,13 +3550,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_64" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "MUC"
+      "value" : "SWB_64"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -3202,11 +3586,6 @@
       "value" : "MUC"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -3215,13 +3594,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_29" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "24EC"
+      "value" : "SWB_29"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -3246,11 +3630,6 @@
       "value" : "24EC"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -3259,13 +3638,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_25" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "ORG"
+      "value" : "SWB_25"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -3290,11 +3674,6 @@
       "value" : "ORG"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -3303,13 +3682,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_69" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "MUCDOPG"
+      "value" : "SWB_69"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -3334,11 +3718,6 @@
       "value" : "MUCDOPG"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -3347,13 +3726,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_26" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "TIO"
+      "value" : "SWB_26"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -3378,11 +3762,6 @@
       "value" : "TIO"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -3391,13 +3770,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_27" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "GI"
+      "value" : "SWB_27"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -3422,11 +3806,6 @@
       "value" : "GI"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -3435,13 +3814,18 @@
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
     }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
+    }
      ]
   }
    ,
   "https://data.omgeving.vlaanderen.be/id/concept/csor/soortwaardebepaling/SWB_28" : { 
     "http://www.w3.org/2004/02/skos/core#notation" : [ { 
       "type" : "literal" ,
-      "value" : "KI"
+      "value" : "SWB_28"
     }
      ] ,
     "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ { 
@@ -3466,11 +3850,6 @@
       "value" : "KI"
     }
      ] ,
-    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
-      "type" : "uri" ,
-      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
-    }
-     ] ,
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ { 
       "type" : "uri" ,
       "value" : "https://data.omgeving.vlaanderen.be/ns/csor#SoortWaardebepaling"
@@ -3478,6 +3857,11 @@
     , { 
       "type" : "uri" ,
       "value" : "http://www.w3.org/2004/02/skos/core#Concept"
+    }
+     ] ,
+    "http://www.w3.org/2004/02/skos/core#inScheme" : [ { 
+      "type" : "uri" ,
+      "value" : "https://data.omgeving.vlaanderen.be/id/conceptscheme/csor/soortwaardebepaling"
     }
      ]
   }
