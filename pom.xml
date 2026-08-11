@@ -9,14 +9,14 @@
   <packaging>jar</packaging>
   <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
   <artifactId>codelijst-csor-soort-waardebepaling</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.1.0</version>
   <name>codelijst-csor-soort-waardebepaling</name>
   <description />
   <scm>
     <connection>scm:git:https://github.com/milieuinfo/codelijst-csor-soort-waardebepaling.git</connection>
     <developerConnection>scm:git:https://github.com/milieuinfo/codelijst-csor-soort-waardebepaling.git</developerConnection>
     <url>https://github.com/milieuinfo/codelijst-csor-soort-waardebepaling.git</url>
-    <tag>HEAD</tag>
+    <tag>codelijst-csor-soort-waardebepaling-0.1.0</tag>
   </scm>
   <build>
     <plugins>
